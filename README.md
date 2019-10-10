@@ -13,7 +13,7 @@ The following applications are required to be installed:
 * Windows SDK version 17763 (installed with Visual Studio 2017)
 * Python or some other means for running a localhost http server
 
-# Build (Non-PlayReady version)
+# Build and Run
 
 1. Open a command prompt and start a Python SimpleHttpServer
 
