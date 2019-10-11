@@ -25,7 +25,7 @@ python -m SimpleHTTPServer 8000
 
 1. Select the x64/Debug configuration
 
-1. Set LocalHostUWP as the Startup Project
+1. Set PackagingProject as the Startup Project
 
 1. Double-click on the Package.appxmanifest file in the LocalHostUWP project. 
 
