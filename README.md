@@ -45,7 +45,7 @@ python -m SimpleHTTPServer 8000
 
 1. Click on the Test button
 
-1. The contents of the file test.json (served from a localhost http server) will be displayer in the UWP app window
+1. The contents of the file test.json (served from a localhost http server) will be displayed in the UWP app window
 
 
 
