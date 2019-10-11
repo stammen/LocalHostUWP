@@ -18,6 +18,7 @@ The following applications are required to be installed:
 1. Open a command prompt and start a Python SimpleHttpServer
 
 ```console
+cd LocalHostUWP
 python -m SimpleHTTPServer 8000
 ```
 
