@@ -3,8 +3,6 @@
 This repo contains a sample UWP app that demonstrates how to connect and receive data from a server running on the localhost. UWP apps are not able to access localhost. By using a windowless
 Win32 C++ app and UWP protocols, it is possible to connect to the localhost and receive data in the UWP app.
 
-add PlayReady information to the DASH MP4 manifest created by MP4Box
-
 # Getting Started
 
 The following applications are required to be installed:
