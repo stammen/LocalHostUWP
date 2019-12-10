@@ -40,6 +40,7 @@
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageCertificateKeyFile>PackagingProject_TemporaryKey.pfx</PackageCertificateKeyFile>
     <EntryPointProjectUniqueName>..\LocalHostUWP\LocalHostUWP.csproj</EntryPointProjectUniqueName>
+    <PackageCertificateThumbprint>5B8A3448EA707E3FBC46537BE547025F1A34AD88</PackageCertificateThumbprint>
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
